@@ -12,7 +12,7 @@
 <h2 align="center"><img src="https://user-images.githubusercontent.com/69077430/197341007-d35b18f5-bdab-4fe0-b2d7-be6cb9a95670.png"></h2>
 
 
-## Live Projects
+# Live Projects
 
 <div>
 <a href="https://github.com/srj347/Dukan-Chalao">
